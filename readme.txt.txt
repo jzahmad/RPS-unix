@@ -1,9 +1,3 @@
-Name:-         Jazib Ahmad
-Student ID:-   B00889804
-
-A3-CSCI3171
-
-
 Instruction:-
 
  (Execution)-
