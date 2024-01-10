@@ -1,3 +1,4 @@
+![image server(L) , client(R)](https://github.com/jzahmad/RPS-unix/assets/140528310/47483f3f-ac31-41a7-8932-61cc550aa025)
 Instruction:-
 
  (Execution)-
@@ -50,3 +51,6 @@ Instruction:-
 7)- If press n, it will stop working.
 
 8)- If you want to play again, follow step 8 onward.
+
+
+
